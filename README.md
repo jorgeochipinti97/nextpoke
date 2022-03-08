@@ -5,3 +5,4 @@ Esta es una aplicación construida con nextJS con typescript, utilizando compone
 En cuanto al diseño se le dio la oportunidad a NextUI - que nada tiene que ver con NextJS-, el cual aún está en desarrollo pero con un enorme potencial.
 Para el ruteo se utilizo el sistema propio de NextJS <Link>. llamado <NextLink> debido a que NextUI tiene un componente llamado <Link>.
 # pokemon-app
+# PokeStatic
